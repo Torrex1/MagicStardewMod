@@ -1,0 +1,24 @@
+{
+  "Format": "2.0.0",
+  "Changes": [
+    {
+      "Action": "Load",
+      "Target": "Mods/torrex.MagicStardewContentPack/MagicStardew",
+      "FromFile": "assets/magic_book.png"
+    },
+    {
+      "Action": "EditData",
+      "Target": "Data/Objects",
+      "Entries": {
+        "MagicBook": {
+          "Name": "magicBook",
+          "DisplayName": "Ветхая книга",
+          "Description": "Что-то зловещее исходит со страниц книги...",
+          "Type": "Basic",
+          "Category": -99,
+          "Texture": "Mods/torrex.MagicStardewContentPack/MagicStardew"
+        }
+      }
+    }
+  ]
+}

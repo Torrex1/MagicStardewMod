@@ -1,0 +1,10 @@
+{
+    "Name": "Magic Stardew",
+    "Author": "torrex",
+    "Version": "1.0.0",
+    "Description": "Мод, добавляющий магию, зельеварение, алхимию и многое другое",
+    "UniqueID": "torrex.MagicStardew",
+    "EntryDll": "magicStardew.dll",
+    "MinimumApiVersion": "4.0.0",
+    "UpdateKeys": []
+}

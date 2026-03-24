@@ -1,0 +1,21 @@
+## --- Visual Studio & .NET ---
+[Bb]in/
+[Oo]bj/
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## --- Stardew Valley & SMAPI ---
+# Игнорируем конфиги, которые создаются модом после первого запуска
+config.json
+.DS_Store
+
+# Игнорируем логи SMAPI, если они вдруг попадут в папку проекта
+ErrorLogs/
+*.log
+
+## --- OS specific ---
+.DS_Store
+Thumbs.db
